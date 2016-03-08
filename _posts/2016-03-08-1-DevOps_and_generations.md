@@ -6,14 +6,14 @@
 
 <!-- MarkdownTOC -->
 
-- [Me](#me)
+- [Quick Me](#quick-me)
   - [Pro](#pro)
 
 <!-- /MarkdownTOC -->
 
 ---
 
-# Me
+# Quick Me
 
 * Xavier Krantz 
   - xakraz
@@ -30,6 +30,11 @@
 * SRE Core - Automation @Criteo
   - Paris 2015
 
+--
+
+<p class="stretch">
+![xakraz]({{ site.baseurl }}/assets/xakraz.png)
+</p>
 
 ---
 
